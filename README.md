@@ -1,10 +1,4 @@
-<img src="https://telegra.ph/file/9936c273582628afb098c.png" alt="logo" target="/blank">
-
-<h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( PREMIUM Renamer ) </a></>
-</h1>
-
-<p align="center">🤍 Thanks for Being Here 🤍</p>
+<img src="https://graph.org/file/b3125068739885e7109db.jpg" alt="logo" target="/blank">
 
 
 ### ⚡️ Configs 
@@ -29,29 +23,7 @@
 
 * `BOT_USERNAME` - Add bot username `without @` .
 
-  ### 📶 DEPLOYEMENT SUPPORT
-
-<details><summary>🔥 Deploy To Koyeb 🔥</summary>
-<p>
-<br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-V2&branch=main&name=gngbabyrenamer" >
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-V2">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-
-
-
+ 
 
 #### 🥰 Features
  - Renames very fast .
@@ -95,20 +67,3 @@
 `/resetpower` - To reset renaming capacity (to default 1.2 GB)  [FOR ADMINS USE ONLY].
  
 `/addpremium` - To upgrade user plan to SILVER - GOLD - DIAMOND  [FOR ADMINS USE ONLY].
-
-
-### 🔗 important_Links
-- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
-- [🤩 Create FILE TO LINK BOT](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [❣️ Join Youtube](https://www.youtube.com/@LazyDeveloperr)
-
-
-#### 🧡 Respecting... 🧡
-- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
-- [🔥 lntechnical2](https://github.com/lntechnical2)
-
-### 🤩 INSPIRATION
-<a href="#">
-   <p>❣️ GANGSTER-BABY 🔥</p>
-</a>
